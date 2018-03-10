@@ -1,0 +1,9 @@
+c:\users\thamires\source\repos\DadosBicicleta\DadosBicicleta\bin\Debug\DadosBicicleta.exe.config
+c:\users\thamires\source\repos\DadosBicicleta\DadosBicicleta\bin\Debug\DadosBicicleta.exe
+c:\users\thamires\source\repos\DadosBicicleta\DadosBicicleta\bin\Debug\DadosBicicleta.pdb
+c:\users\thamires\source\repos\DadosBicicleta\DadosBicicleta\bin\Debug\Bicicleta.dll
+c:\users\thamires\source\repos\DadosBicicleta\DadosBicicleta\bin\Debug\Bicicleta.pdb
+c:\users\thamires\source\repos\DadosBicicleta\DadosBicicleta\obj\Debug\DadosBicicleta.csprojResolveAssemblyReference.cache
+c:\users\thamires\source\repos\DadosBicicleta\DadosBicicleta\obj\Debug\DadosBicicleta.csproj.CoreCompileInputs.cache
+c:\users\thamires\source\repos\DadosBicicleta\DadosBicicleta\obj\Debug\DadosBicicleta.exe
+c:\users\thamires\source\repos\DadosBicicleta\DadosBicicleta\obj\Debug\DadosBicicleta.pdb
